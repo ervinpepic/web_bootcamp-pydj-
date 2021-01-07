@@ -1,0 +1,40 @@
+td {
+    height: 300px;
+    width: 150px;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.art {
+    margin: auto;
+    border-spacing: 15px;
+}
+
+#one {
+    padding: 10px;
+    background-color: #DAD2D8;
+}
+
+#two {
+    padding: 10px;
+   background-color: #325FA2;
+}
+
+#three {
+    padding: 10px;
+    background-color: #143642;
+}
+
+#for {
+    padding: 10px;
+    background-color: #EC9A29;
+}
+
+#five {
+    padding: 10px;
+    background-color: #A8201A;
+}

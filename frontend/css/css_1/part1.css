@@ -1,0 +1,23 @@
+/* comments in css made by forward slash and astersik */
+
+/* how to make css :
+selected tag {
+    property: value;
+}
+ */
+
+ h1 {
+     color: rgb(68, 78, 88);
+ }
+
+ li {
+     color: #3d2e13;
+ }
+
+ p {
+     color: green;
+ }
+
+ h4 {
+     color: rgba(66, 76, 86, 1, 0)
+ }
